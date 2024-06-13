@@ -1,0 +1,5 @@
+# Aguarde 10 segundos antes de fechar o navegador (ajuste conforme necessário)
+time.sleep(30)
+
+# Feche o WebDriver
+driver.quit()
